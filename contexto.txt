@@ -1,0 +1,19 @@
+APP DEL SISTEMA
+
+Bases → van a estar login-logout y el modelo base donde se heredan los modelos que se van creando donde estan las generalidades que se necesitan en cada modelo
+
+Inv → manejo de inventario
+
+Cmp → compras y entradas
+
+Fac → salidas
+
+APP DEL SISTEMA (CATALOGOS)
+
+Inv → Categorias, sub-categorias, marca, unidad de medida, inventario(cantidad)
+
+Cmp → modelo proveedores
+
+Fac → 
+
+SE DEBEN CREAR DOS GRUPOS DENTRO DE ADMIN UNO PARA FACTURADOR Y OTRO PARA SUPERVISORCAJA
