@@ -1,8 +1,6 @@
-# sistema-de-compras-y-facturacion
+# Sistema de compras y facturacion desarrollado en python con django
 
-Sistema de compras y facturacion desarrollado en python con django
-
-El sistema cuenta con dos tipos de usuarios supervisor de caja y el facturador.
+El sistema cuenta con dos tipos de usuarios el facturador y el supervisor de caja quien puede corregir las facturas generadas por el facturador.
 
 ## Login
 ![image](https://user-images.githubusercontent.com/34410986/230219692-c5574804-794b-428d-989e-5b22bc7d63c2.png)
