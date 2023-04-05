@@ -1,1 +1,7 @@
 python-3.9
+
+admin:nicolas
+
+juan:nicolas123 --> supervisorcaja
+
+pedro:nicolas123 --> facturador
